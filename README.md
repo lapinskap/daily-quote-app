@@ -1,24 +1,56 @@
-# README
+# daily-quote-app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> Daily Quote App: Ruby on Rails 5 Application
 
-Things you may want to cover:
+## Table of contents
+* [General info](#general-info)
+* [Screenshots](#screenshots)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Features](#features)
+* [Status](#status)
+* [Inspiration](#inspiration)
+* [Contact](#contact)
 
-* Ruby version
+## General info
+Daily Quote App collects quotes, allows you to modify quotes, add likes and comments.
 
-* System dependencies
 
-* Configuration
+## Screenshots
+![Example screenshot](./img/screenshot.png)
 
-* Database creation
+## Technologies
+* Ruby on Rails 5
+* Tech 2 - version 2.0
+* Tech 3 - version 3.0
 
-* Database initialization
+## Setup
+Describe how to install / setup your local environement / add link to demo version.
 
-* How to run the test suite
+```
+$ bundle install
+$ rails s 
+```
 
-* Services (job queues, cache servers, search engines, etc.)
+## Code Examples
+Show examples of usage:
+`put-your-code-here`
 
-* Deployment instructions
+## Features
+List of features ready and TODOs for future development
+* Awesome feature 1
+* Awesome feature 2
+* Awesome feature 3
 
-* ...
+To-do list:
+* Wow improvement to be done 1
+* Wow improvement to be done 2
+
+## Status
+Project is: _in progress_, _finished_, _no longer continue_ and why?
+
+## Inspiration
+Add here credits. Project inspired by..., based on...
+
+## Contact
+Created by [@lapinskap](https://www.facebook.com/paulina.lapinska99) - feel free to contact me!
